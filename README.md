@@ -1,23 +1,63 @@
-# 💫 About Me:
-👨‍💻 About Me :<br>🔭 Currently working on<br>An analysis project for Shield Insurance, focusing on customer churn and financial risk segmentation. Alongside this, I’m completing my MSc dissertation on heart disease prediction using machine learning, and recently delivered a financial forecasting model using LSTM and GRU for GBP/USD trends.<br><br>👯 Open to collaborating on<br>Real-world projects in finance, healthcare, insurance, or marketing, where I can support data cleaning, modelling, and insight generation.<br><br>🤝 I can help with<br>Financial modelling, cross-validation, and leveraging Python, SQL, Power BI, and Tableau to analyse large datasets and extract actionable insights.<br><br>🌱 Currently learning<br>AWS data engineering tools (Glue, Athena, S3) and pursuing the CIFA Level 4 certification, deepening my understanding of investment, regulation, and ethics.<br><br>💬 Ask me about<br><br>The Shield Insurance analytics project<br><br>My experience at Gufic Biosciences, working with pharmaceutical and healthcare data<br><br>Financial and healthcare data analysis<br><br>Using Python, SQL, Power BI, and Tableau to solve real-world problems<br><br>⚡ Fun fact<br>A dashboard I built to reveal booking trends in a logistics dataset was selected for a stakeholder demo due to its practical business value.
+# 👋 Hi, I'm Shivam Rajput
 
+## 👨‍💻 About Me :
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_shivam_xxii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-rajput22/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamrrajput01@gmail.com) 
+🔭 **Currently working on**  
+An analysis project for **Shield Insurance**, focusing on customer churn and financial risk segmentation. Alongside this, I’m completing my MSc dissertation on **heart disease prediction using machine learning**, and recently delivered a **financial forecasting model** using LSTM and GRU for GBP/USD trends.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+👯 **Open to collaborating on**  
+Real-world projects in **finance, healthcare, insurance, or marketing**, where I can support data cleaning, modelling, and insight generation.
 
-<p align="left">Hello World!!</p>
+🤝 **I can help with**  
+**Financial modelling, cross-validation**, and leveraging **Python, SQL, Power BI, and Tableau** to analyse large datasets and extract actionable insights.
 
-###
+🌱 **Currently learning**  
+AWS data engineering tools (Glue, Athena, S3) and pursuing the **CIFA Level 4** certification — focused on investment principles, financial regulation, and ethical practices.
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+💬 **Ask me about**  
+- The Shield Insurance analytics project  
+- My experience at **Gufic Biosciences**, where I analysed pharmaceutical and healthcare data to support sales and inventory decisions  
+- Financial and healthcare data analysis  
+- Using **Python, SQL, Power BI**, and **Tableau** to solve real-world problems
 
-###
+⚡ **Fun fact**  
+A dashboard I built to reveal booking trends in a logistics dataset was selected for a **stakeholder demo** due to its practical business value.
 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Tech Stack:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Amazon QuickSight](https://img.shields.io/badge/-Amazon%20QuickSight-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-42A5F5?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: shivamrrajput01@gmail.com  
+- 🌐 Portfolio: [shivamtheanalyst.github.io](https://shivamtheanalyst.github.io)  
+- 📍 Based in: London, UK
+
+---
+
+## 💬 Daily Quote
+
+> <img src="https://readmequotes.com/api?theme=dark" width="100%"/>
+
+---
