@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Shivam Rajput
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0D98BA&center=true&vCenter=true&width=400&lines=Hey%2C+I'm+Shivam+Rajput&repeat=true" alt="Typing SVG" />
+</h1>
+
+
+---
 
 ## 👨‍💻 About Me
 
@@ -27,6 +32,7 @@ I’m passionate about using data to uncover insights and support strategic deci
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📊 BI & Data Visualisation
@@ -53,24 +59,25 @@ I’m passionate about using data to uncover insights and support strategic deci
 ## 📈 Currently Learning
 
 - **AWS Glue, Athena, and S3** for data engineering workflows  
-- **CIFA Level 4 Certification** to deepen understanding of investment principles and financial regulation  
+- **CIFA Level 4 Certification** – investment principles, financial ethics, and UK regulation
 
 ---
 
 ## 💬 Ask Me About
 
-- How I approached the **Shield Insurance analytics project**
-- My experience at **Gufic Biosciences**, analysing pharma and healthcare data  
-- My work with real-world datasets in **healthcare and finance**
-- Using **Python, SQL, Power BI**, and **Tableau** to solve complex business problems
+- The **Shield Insurance** analytics project  
+- My work at **Gufic Biosciences**, analysing healthcare & pharmaceutical data  
+- Using **Python, SQL, Power BI**, and **Tableau** to drive business insights  
+- **Financial forecasting** using LSTM and GRU in real-world currency prediction
 
 ---
 
-## 📫 Contact
+## 🌐 Connect with Me
 
-- 📧 Email: shivamrrajput01@gmail.com  
-- 🌐 Portfolio: [shivamtheanalyst.github.io](https://shivamtheanalyst.github.io)  
-- 📍 Based in: London, UK
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamrrajput01)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shivamrrajput01)  
+📧 Email: [shivamrrajput01@gmail.com](mailto:shivamrrajput01@gmail.com)  
+🌐 Portfolio: [shivamtheanalyst.github.io](https://shivamtheanalyst.github.io)
 
 ---
 
