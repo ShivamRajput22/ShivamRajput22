@@ -74,8 +74,8 @@ I’m passionate about using data to uncover insights and support strategic deci
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamrrajput01)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shivamrrajput01)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-rajput22/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_shivam_xxii/)  
 📧 Email: [shivamrrajput01@gmail.com](mailto:shivamrrajput01@gmail.com)  
 🌐 Portfolio: [shivamtheanalyst.github.io](https://shivamtheanalyst.github.io)
 
