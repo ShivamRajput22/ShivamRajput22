@@ -54,6 +54,17 @@ I’m passionate about using data to uncover insights and support strategic deci
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
+### 🧪 Testing & Analysis
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 📁 Version Control & Deployment
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 🧱 Project & Workflow Tools
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ---
 
 ## 📈 Currently Learning
@@ -77,7 +88,7 @@ I’m passionate about using data to uncover insights and support strategic deci
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-rajput22/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_shivam_xxii/)  
 📧 Email: [shivamrrajput01@gmail.com](mailto:shivamrrajput01@gmail.com)  
-🌐 Portfolio: [shivamtheanalyst.github.io](https://shivamtheanalyst.github.io)
+🌐 Portfolio: [shivamtheanalyst.github.io](https://shivamrajput22.github.io/ShivamTheAnalyst.github.io/)
 
 ---
 
